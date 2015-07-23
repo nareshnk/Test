@@ -11,7 +11,7 @@ const int ALPHABET2PRIMES[] = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 4
 map <unsigned long long int, vector<string> > hashMap;
 
 ifstream file;
-
+//hidnmz
 string hash( string str ) {
     string hash = NULL;
     char[25] sortStr;
